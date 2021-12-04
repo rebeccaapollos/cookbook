@@ -5,3 +5,12 @@
 <h1 align="center">
   Welcome to Becky's cookbook
 </h1>
+
+---
+
+### Instructions to deploy to git
+
+- Check status using `git status`
+- Stage changes using `git add .`
+- Commit changes to master branch using `git commit -m "commit message"`
+- Push changes to github using `git push origin master`
