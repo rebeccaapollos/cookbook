@@ -8,6 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
   },
+  pathPrefix: "/cookbook",
   plugins: [
     `gatsby-plugin-image`,
     {
