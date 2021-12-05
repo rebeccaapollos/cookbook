@@ -6,6 +6,8 @@
   Welcome to Becky's cookbook
 </h1>
 
+### You can view the cookbook live [here](https://rebeccaapollos.github.io/cookbook/)
+
 ---
 
 ### Instructions to deploy to git
