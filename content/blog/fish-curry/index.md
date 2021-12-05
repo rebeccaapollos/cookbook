@@ -10,17 +10,17 @@ For today's fish curry recipie we'll be using king fish! But this recipe can be 
 
 ### Ingredients requried
 
-    - Chilly powder 2 teaspoon
-    - Corriander powder 2 teaspoon
-    - Turmeric powder 1 teaspoon
-    - Jeera 3 spoons
-    - Garlic 4 pods
-    - Tamarind water
-    - Salt
-    - Grated coconut 5 spoons
-    - Tomato - 1
-    - Curry Leaves
-    - Shallots - 10-12 pieces
+- _Chilly powder 2 teaspoon_
+- _Corriander powder 2 teaspoon_
+- _Turmeric powder 1 teaspoon_
+- _Jeera 3 spoons_
+- _Garlic 4 pods_
+- _Tamarind water_
+- _Salt_
+- _Grated coconut 5 spoons_
+- _Tomato - 1_
+- _Curry Leaves_
+- _Shallots - 10-12 pieces_
 
 ![Fish Curry](./fish-curry.jpg)
 
