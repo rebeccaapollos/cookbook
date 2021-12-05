@@ -1,12 +1,12 @@
 ---
 title: Fish Curry
 date: "2021-12-04"
-description: "Our yummy fish curry recipie."
+description: "Our yummy fish curry recipe."
 ---
 
 I'm very excited to write my first recipie today!!
 
-For today's fish curry recipie we'll be using king fish! But this recipie can be used for other fish like pomfret.
+For today's fish curry recipie we'll be using king fish! But this recipe can be used for other fish like pomfret.
 
 ### Ingredients requried
 
@@ -35,4 +35,4 @@ For today's fish curry recipie we'll be using king fish! But this recipie can be
 7. Let the fish curry boil for around 15 minutes.
 
 Finally, you're tasty fish curry is ready. You can serve it with rice and some vegetables.
-Stay tuned for more receipies....
+Stay tuned for more recipies....
