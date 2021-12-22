@@ -3,7 +3,7 @@ module.exports = {
     title: `Becky's Cookbook`,
     author: {
       name: `Rebecca Apollos`,
-      summary: `who lives in Canada and enjoys cooking.`,
+      summary: `enjoys cooking.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
