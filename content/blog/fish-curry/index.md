@@ -1,14 +1,14 @@
 ---
-title: Fish Curry
+title: Fish Curry 👩‍🍳
 date: "2021-12-04"
 description: "Our yummy fish curry recipe."
 ---
 
 I'm very excited to write my first recipie today!!
 
-For today's fish curry recipe 👩‍🍳 we'll be using king fish! But this recipe can be used for other fish like pomfret.
+For today's fish curry recipe we'll be using king fish! But this recipe can be used for other fish like pomfret.
 
-### Ingredients requried
+### Ingredients requried:
 
 - _Chilly powder 2 teaspoon_
 - _Corriander powder 2 teaspoon_
@@ -36,4 +36,4 @@ For today's fish curry recipe 👩‍🍳 we'll be using king fish! But this rec
 8. Let the fish curry boil for around 15 minutes.
 
 Finally, you're tasty fish curry is ready. You can serve it with rice 🍚and some vegetables 🍲.
-Stay tuned for more recipies...😊
+Stay tuned for more recipes...😊

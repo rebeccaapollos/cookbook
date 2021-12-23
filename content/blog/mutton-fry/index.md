@@ -1,12 +1,10 @@
 ---
-title: Mutton Fry
+title: Mutton Fry 👩‍🍳
 date: "2021-12-04"
 description: "Mutton fry recipe."
 ---
 
 ### Ingredients:
-
-    Mutton Fry 👩‍🍳
 
 > - Coconut🥥 oil 2 tablespoons
 > - Pepper🧂powder 2 tsp🥄 (or more as per spice tolerance)
