@@ -1,5 +1,5 @@
 ---
-title: Fish Curry 👩‍🍳
+title: Fish Curry
 date: "2021-12-04"
 description: "Our yummy fish curry recipe."
 ---
@@ -36,4 +36,4 @@ For today's fish curry recipe we'll be using king fish! But this recipe can be u
 8. Let the fish curry boil for around 15 minutes.
 
 Finally, you're tasty fish curry is ready. You can serve it with rice 🍚and some vegetables 🍲.
-Stay tuned for more recipes...😊
+Stay tuned for more recipes...😊 👩‍🍳

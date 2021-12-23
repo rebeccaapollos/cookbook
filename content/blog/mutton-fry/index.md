@@ -1,5 +1,5 @@
 ---
-title: Mutton Fry 👩‍🍳
+title: Mutton Fry
 date: "2021-12-04"
 description: "Mutton fry recipe."
 ---
@@ -31,4 +31,4 @@ description: "Mutton fry recipe."
 6. Add chopped mutton and mix it well.
 7. Once the mutton is almost cooked, you can add the curry leaves and mix it.
 
-Finally, Mutton Fry is ready 😊!!!You can serve it with rice 🍚 or chapati.
+Finally, Mutton Fry is ready 😊!!!You can serve it with rice 🍚 or chapati.👩‍🍳
