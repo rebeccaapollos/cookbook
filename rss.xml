@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Dec 2021 04:33:08 GMT</lastBuildDate><item><title><![CDATA[Fish Curry]]></title><description><![CDATA[I’m very excited to write my first recipie today!! For today’s fish curry recipe we’ll be using king fish! But this recipe can be used for…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/fish-curry/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/fish-curry/</guid><pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’m very excited to write my first recipie today!!&lt;/p&gt;
+&lt;p&gt;For today’s fish curry recipe we’ll be using king fish! But this recipe can be used for other fish like pomfret.&lt;/p&gt;
+&lt;h3&gt;Ingredients requried:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Chilly powder 2 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Corriander powder 2 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Turmeric powder 1 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Jeera 3 spoons&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Garlic🧄 4 pods&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tamarind water&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Salt&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Grated coconut 🥥 5 spoons&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tomato 🍅 - 1&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Curry Leaves 🍃-2 strings&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Shallots (smallonions) 🧅 - 10-12 pieces&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/e5166/fish-curry.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/aAAwDAQACEAMQAAABh7qczSttQxaBvUNP/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAxIREyEiMf/aAAgBAQABBQKJpIoFiqjPS4UnBBLVudl/v//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAgMh/9oACAEDAQE/Ac88pPjZZv/EABkRAAIDAQAAAAAAAAAAAAAAAAACAREhMf/aAAgBAgEBPwF3axZwojh//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAFBAhARITFhgf/aAAgBAQAGPwLfEE+mGUtRbHQsaFFv/8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFRQWFx/9oACAEBAAE/IWC04Q7h6LiuiJ5WD+ywqm3yowVsjIOW/sFAq3oTCu6J/9oADAMBAAIAAwAAABAPIEL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/ECLkRCQMG6b/xAAYEQEBAQEBAAAAAAAAAAAAAAABADERQf/aAAgBAgEBPxAzPLoWA7ZX/8QAHhABAAIDAAIDAAAAAAAAAAAAAQARITFRYYFBceH/2gAIAQEAAT8QtYDqr9MEZZ+APdZItgBxxKCbD5Z2eSCVrBbWAJYh8bal7dDTPsO4k1TIx/IqsaBbvs//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Fish Curry&quot;
+        title=&quot;Fish Curry&quot;
+        src=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/828fb/fish-curry.jpg&quot;
+        srcset=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/ff44c/fish-curry.jpg 158w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/a6688/fish-curry.jpg 315w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/828fb/fish-curry.jpg 630w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/0ede0/fish-curry.jpg 945w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/e5166/fish-curry.jpg 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Steps to cook:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Soak lemon sized tamarind in one cup of water.&lt;/li&gt;
+&lt;li&gt;In a blender, add grated coconut, shallots(10-12 pieces), curry leaves(2 strings), jeera, chilly powder, corriander powder, turmeric powder, garlic, 1 cup water and blend it until it becomes a finely grinded paste.&lt;/li&gt;
+&lt;li&gt;In a pan, add the grinded mixture and heat it until it boils.&lt;/li&gt;
+&lt;li&gt;Put the fish into the pan when the mixture boils.&lt;/li&gt;
+&lt;li&gt;Immediately add the tamarind water.&lt;/li&gt;
+&lt;li&gt;Add some curry leaves and a finely chopped tomato.&lt;/li&gt;
+&lt;li&gt;Salt to taste&lt;/li&gt;
+&lt;li&gt;Let the fish curry boil for around 15 minutes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, you’re tasty fish curry is ready. You can serve it with rice 🍚and some vegetables 🍲.
+Stay tuned for more recipes…😊 👩‍🍳&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fish Curry]]></title><description><![CDATA[I’m very excited to write my first recipie today!! For today’s fish curry recipie we’ll be using king fish! But this recipe can be used for…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/fish-curry copy/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/fish-curry copy/</guid><pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’m very excited to write my first recipie today!!&lt;/p&gt;
+&lt;p&gt;For today’s fish curry recipie we’ll be using king fish! But this recipe can be used for other fish like pomfret.&lt;/p&gt;
+&lt;h3&gt;Ingredients requried&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Chilly powder 2 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Corriander powder 2 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Turmeric powder 1 teaspoon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Jeera 3 spoons&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Garlic🧄 4 pods&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tamarind water&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Salt&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Grated coconut 🥥 5 spoons&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tomato 🍅 - 1&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Curry Leaves 🍃-2 strings&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Shallots (smallonions) 🧅 - 10-12 pieces&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/e5166/fish-curry.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/aAAwDAQACEAMQAAABh7qczSttQxaBvUNP/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAxIREyEiMf/aAAgBAQABBQKJpIoFiqjPS4UnBBLVudl/v//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAgMh/9oACAEDAQE/Ac88pPjZZv/EABkRAAIDAQAAAAAAAAAAAAAAAAACAREhMf/aAAgBAgEBPwF3axZwojh//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAFBAhARITFhgf/aAAgBAQAGPwLfEE+mGUtRbHQsaFFv/8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFRQWFx/9oACAEBAAE/IWC04Q7h6LiuiJ5WD+ywqm3yowVsjIOW/sFAq3oTCu6J/9oADAMBAAIAAwAAABAPIEL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/ECLkRCQMG6b/xAAYEQEBAQEBAAAAAAAAAAAAAAABADERQf/aAAgBAgEBPxAzPLoWA7ZX/8QAHhABAAIDAAIDAAAAAAAAAAAAAQARITFRYYFBceH/2gAIAQEAAT8QtYDqr9MEZZ+APdZItgBxxKCbD5Z2eSCVrBbWAJYh8bal7dDTPsO4k1TIx/IqsaBbvs//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Fish Curry&quot;
+        title=&quot;Fish Curry&quot;
+        src=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/828fb/fish-curry.jpg&quot;
+        srcset=&quot;/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/ff44c/fish-curry.jpg 158w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/a6688/fish-curry.jpg 315w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/828fb/fish-curry.jpg 630w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/0ede0/fish-curry.jpg 945w,
+/cookbook/static/83c2ac4fab33162ced8538faa2d0a9b8/e5166/fish-curry.jpg 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Steps to cook:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Soak lemon sized tamarind in one cup of water.&lt;/li&gt;
+&lt;li&gt;In a blender, add grated coconut, shallots(10-12 pieces), curry leaves(2 strings), jeera, chilly powder, corriander powder, turmeric powder, garlic, 1 cup water and blend it until it becomes a finely grinded paste.&lt;/li&gt;
+&lt;li&gt;In a pan, add the grinded mixture and heat it until it boils.&lt;/li&gt;
+&lt;li&gt;Put the fish into the pan when the mixture boils.&lt;/li&gt;
+&lt;li&gt;Immediately add the tamarind water.&lt;/li&gt;
+&lt;li&gt;Add some curry leaves and a finely chopped tomato.&lt;/li&gt;
+&lt;li&gt;Salt to taste&lt;/li&gt;
+&lt;li&gt;Let the fish curry boil for around 15 minutes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, you’re tasty fish curry is ready. You can serve it with rice and some vegetables.
+Stay tuned for more recipies…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mutton Fry]]></title><description><![CDATA[Ingredients: Coconut🥥 oil 2 tablespoons Pepper🧂powder 2 tsp🥄 (or more as per spice tolerance) Mutton🐐 - 500 grams Chopped onions 🧅 -…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/mutton-fry/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/mutton-fry/</guid><pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Ingredients:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Coconut🥥 oil 2 tablespoons&lt;/li&gt;
+&lt;li&gt;Pepper🧂powder 2 tsp🥄 (or more as per spice tolerance)&lt;/li&gt;
+&lt;li&gt;Mutton🐐 - 500 grams&lt;/li&gt;
+&lt;li&gt;Chopped onions 🧅 - 1 onion&lt;/li&gt;
+&lt;li&gt;Ginger and garlic 🧄 paste - small piece of ginger and garlic (5-6 pods)&lt;/li&gt;
+&lt;li&gt;Chopped tomato 🍅- 1 medium sized&lt;/li&gt;
+&lt;li&gt;Slit green chilly - 2 🌶️&lt;/li&gt;
+&lt;li&gt;Tumeric powder - 1/4 tsp&lt;/li&gt;
+&lt;li&gt;Garam masala - 1 1/2 tsp (Refer to my Garam masala recipe page to learn how to make homemade garam masala)&lt;/li&gt;
+&lt;li&gt;Coriander powder - 1 tsp&lt;/li&gt;
+&lt;li&gt;Salt 🧂 to taste&lt;/li&gt;
+&lt;li&gt;Curry leaves 🍃 - 2 strings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/72e01/Mutton_Fry.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABrCybpijP/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQISAxAhMTL/2gAIAQEAAQUCqHKMQx2eoQt//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/Aaf/xAAaEAABBQEAAAAAAAAAAAAAAAAQAAEREiEx/9oACAEBAAY/Ap4m0VP/xAAcEAEBAQABBQAAAAAAAAAAAAABEQAxIUFhgZH/2gAIAQEAAT8hkQPkc6TKL1FtxjLxidyL80RGqnrQ3//aAAwDAQACAAMAAAAQeM//xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QExP/xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxATP//EAB0QAQEAAgIDAQAAAAAAAAAAAAERADEhQVFxgcH/2gAIAQEAAT8QBy0jwel6MV+BFYLs8TNzKlziERiO0t/JihqEGQLuHzIBCd5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mutton Curry&quot;
+        title=&quot;Mutton Curry&quot;
+        src=&quot;/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/828fb/Mutton_Fry.jpg&quot;
+        srcset=&quot;/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/ff44c/Mutton_Fry.jpg 158w,
+/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/a6688/Mutton_Fry.jpg 315w,
+/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/828fb/Mutton_Fry.jpg 630w,
+/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/0ede0/Mutton_Fry.jpg 945w,
+/cookbook/static/953e4fc8ef980c62f7bffe9d99b12007/72e01/Mutton_Fry.jpg 1024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Steps to cook:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In the pan,add coconut oil.&lt;/li&gt;
+&lt;li&gt;Add pepper powder&lt;/li&gt;
+&lt;li&gt;Add chopped onions,green chilly,ginger and garlic paste and mix it well until chopped onion become slightly golden brown.&lt;/li&gt;
+&lt;li&gt;Add chopped tomato and mix it until it is mashed very well.&lt;/li&gt;
+&lt;li&gt;Add tumeric powder, garam masala,coriander powder and salt mix it for about 3-4 min.&lt;/li&gt;
+&lt;li&gt;Add chopped mutton and mix it well.&lt;/li&gt;
+&lt;li&gt;Once the mutton is almost cooked, you can add the curry leaves and mix it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, Mutton Fry is ready 😊!!!You can serve it with rice 🍚 or chapati.👩‍🍳&lt;/p&gt;</content:encoded></item></channel></rss>

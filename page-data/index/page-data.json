@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Becky's Cookbook"}},"allMarkdownRemark":{"nodes":[{"excerpt":"I’m very excited to write my first recipie today!! For today’s fish curry recipe we’ll be using king fish! But this recipe can be used for…","fields":{"slug":"/fish-curry/"},"frontmatter":{"date":"December 04, 2021","title":"Fish Curry","description":"Our yummy fish curry recipe."}},{"excerpt":"I’m very excited to write my first recipie today!! For today’s fish curry recipie we’ll be using king fish! But this recipe can be used for…","fields":{"slug":"/fish-curry copy/"},"frontmatter":{"date":"December 04, 2021","title":"Fish Curry","description":"Our yummy fish curry recipe."}},{"excerpt":"Ingredients: Coconut🥥 oil 2 tablespoons Pepper🧂powder 2 tsp🥄 (or more as per spice tolerance) Mutton🐐 - 500 grams Chopped onions 🧅 -…","fields":{"slug":"/mutton-fry/"},"frontmatter":{"date":"December 04, 2021","title":"Mutton Fry","description":"Mutton fry recipe."}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
