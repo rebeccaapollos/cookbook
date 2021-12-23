@@ -24,7 +24,7 @@ For today's fish curry recipie we'll be using king fish! But this recipe can be 
 
 ![Fish Curry](./fish-curry.jpg)
 
-### Steps to cook:👩‍🍳
+### Steps to cook:
 
 1. Soak lemon sized tamarind in one cup of water.
 2. In a blender, add grated coconut, shallots(10-12 pieces), curry leaves(2 strings), jeera, chilly powder, corriander powder, turmeric powder, garlic, 1 cup water and blend it until it becomes a finely grinded paste.
@@ -35,5 +35,5 @@ For today's fish curry recipie we'll be using king fish! But this recipe can be 
 7. Salt to taste
 8. Let the fish curry boil for around 15 minutes.
 
-Finally, you're tasty fish curry is ready. You can serve it with rice 🍚and some vegetables 🍲.
-Stay tuned for more recipies...😊
+Finally, you're tasty fish curry is ready. You can serve it with rice and some vegetables.
+Stay tuned for more recipies....
