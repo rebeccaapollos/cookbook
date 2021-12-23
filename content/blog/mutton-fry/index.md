@@ -6,6 +6,8 @@ description: "Mutton fry recipe."
 
 ### Ingredients:
 
+    Mutton Fry 👩‍🍳
+
 > - Coconut🥥 oil 2 tablespoons
 > - Pepper🧂powder 2 tsp🥄 (or more as per spice tolerance)
 > - Mutton🐐 - 500 grams
@@ -21,7 +23,7 @@ description: "Mutton fry recipe."
 
 ![Mutton Curry](./Mutton_Fry.jpg)
 
-### Steps to cook:👩‍🍳
+### Steps to cook:
 
 1. In the pan,add coconut oil.
 2. Add pepper powder

@@ -6,7 +6,7 @@ description: "Our yummy fish curry recipe."
 
 I'm very excited to write my first recipie today!!
 
-For today's fish curry recipie we'll be using king fish! But this recipe can be used for other fish like pomfret.
+For today's fish curry recipe 👩‍🍳 we'll be using king fish! But this recipe can be used for other fish like pomfret.
 
 ### Ingredients requried
 
@@ -24,7 +24,7 @@ For today's fish curry recipie we'll be using king fish! But this recipe can be 
 
 ![Fish Curry](./fish-curry.jpg)
 
-### Steps to cook:👩‍🍳
+### Steps to cook:
 
 1. Soak lemon sized tamarind in one cup of water.
 2. In a blender, add grated coconut, shallots(10-12 pieces), curry leaves(2 strings), jeera, chilly powder, corriander powder, turmeric powder, garlic, 1 cup water and blend it until it becomes a finely grinded paste.
